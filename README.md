@@ -18,4 +18,5 @@
 # Usage
 
 - Run application in development mode by command `npm run dev`
-- Use `localhost:PORT/api` in order to use Swagger documentation
+- Use `localhost:PORT/api` in order to use Swagger documentation (in development mode only)
+- Use `localhost:PORT/graphql` to use GraphQL playground (in development mode only)
