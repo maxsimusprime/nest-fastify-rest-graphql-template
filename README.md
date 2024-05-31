@@ -10,6 +10,12 @@
 - Clone git repository from develop branch
 - Run `npm ci` command
 - Create `.env` file based on `.env.example`
-- Setup Docker Desktop on windows and docker with docker compose
+- Setup Docker Desktop on windows and docker with docker-compose
 - run `docker-compose up -d` in root app folder
 - run `npx prisma migrate dev --name init`
+
+
+# Usage
+
+- Run application in development mode by command `npm run dev`
+- Use `localhost:PORT/api` in order to use Swagger documentation
