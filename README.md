@@ -9,3 +9,6 @@
 
 - Clone git repository from develop branch
 - Run `npm ci` command
+- Create `.env` file based on `.env.example`
+- Setup Docker Desktop on windows and docker with docker compose
+- run `docker-compose up -d` in root app folder
